@@ -1,3 +1,6 @@
 print('Hello World')
 print('Whatever')
 print('How are you')
+print('2')
+print('3')
+print('1')
